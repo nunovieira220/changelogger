@@ -1,6 +1,6 @@
 # Changelogger
 
-Tool to generate changelog based on pull requests between tags.
+Tool to generate changelog based on pull requests between tags on a Github repository.
 
 ## Download tool
 
